@@ -1,0 +1,2 @@
+npm i reactflow yaml lucide-react
+npm run dev
